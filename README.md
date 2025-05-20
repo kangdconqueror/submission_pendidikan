@@ -156,7 +156,7 @@ Fitur Debtor menunjukkan bahwa mahasiswa dengan kesulitan membayar biaya kuliah 
 - Menawarkan program cicilan atau relaksasi pembayaran
 - Melakukan konseling keuangan kepada mahasiswa yang berisiko
 
-**Action Item 3 - Bantuan Keuangan dan Konseling Pembayaran**: 
+**Action Item 3 - Pemetaan Risiko Berdasarkan Profil Mahasiswa Baru**: 
 
 Faktor usia saat masuk kuliah dan mode pendaftaran memiliki dampak terhadap kelulusan. Perlu diadakan pemetaan risiko berbasis profil masuk untuk:
 
